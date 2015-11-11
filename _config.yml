@@ -1,0 +1,23 @@
+name: jyeahming
+favicon: null
+layout_spectrum: 0.7267174990847707
+typography_spectrum: 0.7607207426335663
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.727838616585359
+  lightness: 0.26134841120801866
+  saturation: 0.22965021966956556
+  rhythmicContrast: 0.3718538300599903
+purpose: []
